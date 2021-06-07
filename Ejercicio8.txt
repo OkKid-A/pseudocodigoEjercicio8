@@ -1,0 +1,8 @@
+Proceso Salir
+	Hacer 
+		N <- aleatorio(0,100)
+		N <- N*5
+		Escribir N
+		Leer comando
+	Mientras (comando != S)
+FinProceso
